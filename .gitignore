@@ -1,0 +1,6 @@
+**/Chart.lock
+charts/*/charts/*
+.DS_Store
+*.dec
+
+!**/.gitkeep

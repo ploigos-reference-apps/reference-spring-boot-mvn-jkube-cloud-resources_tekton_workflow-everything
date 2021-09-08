@@ -1,0 +1,5 @@
+replicaCount: 2
+image:
+  tag: registry-internal-nexus.apps.tssc.rht-set.com/ploigos-ref/ref-spring-jkube-tekton-min-hello:1.4.0-main # written by ploigos-step-runner
+route:
+  hostname: spring-boot-hello-jenkins-min.prod.apps.tssc.rht-set.com
