@@ -34,4 +34,4 @@ global:
   workflowWorkerImageDeploy: 'ploigos/ploigos-tool-argocd:v0.21'
   workflowWorkerImageValidateEnvironmentConfiguration: 'ploigos/ploigos-tool-config-lint:v0.21'
   workflowWorkerImageUAT: 'ploigos/ploigos-tool-maven:v0.21'
-  workflowWorkerImageAutomatedGovernance: 'ploigos/ploigos-tool-autogov:v0.21'
+  workflowWorkerImageAutoGov: 'ploigos/ploigos-tool-autogov:v0.21'
