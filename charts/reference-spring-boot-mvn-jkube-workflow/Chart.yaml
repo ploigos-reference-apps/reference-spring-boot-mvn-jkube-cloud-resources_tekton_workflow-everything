@@ -12,5 +12,5 @@ version: 0.1.0
 
 dependencies:
 - name: ploigos-workflow-tekton-pipeline-everything
-  version: "~0.21.0"
+  version: "~0.22.0"
   repository: "https://ploigos.github.io/ploigos-charts"
